@@ -1,0 +1,20 @@
+
+useEffect(() => {
+    console.log(test)
+}, [test]);
+
+
+useEffect(() => {
+    console.log(tester)
+}, [tester]);
+
+
+useEffect(() => {
+    console.log(stage)
+}, [stage]);
+
+
+useEffect(() => {
+    console.log(inputName)
+}, [inputName]);
+
